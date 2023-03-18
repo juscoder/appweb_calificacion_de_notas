@@ -6,3 +6,5 @@ Esto es un trabajo de App web sistema de calificación de notas en JavaScript.
 ## Screenshot
 ---
 ![captura de pantalla](http://imgfz.com/i/Mgnvhae.jpeg)
+---
+## Preview: <https://system-notas.netlify.app/>
