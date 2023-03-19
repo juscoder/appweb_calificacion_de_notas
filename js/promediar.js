@@ -1,10 +1,8 @@
-// Copyright 2021 JUSTINO RAMOS STUDENT
-
 /**
- * (TRABAJO PRACTICO)
- *
- * @author juscoder
+ * @author JusCoder
+ * Este script realiza la validación de la operacion APP.
  */
+
 function agregarNotas(){
   
     let nom=document.getElementById('nombre').value;
